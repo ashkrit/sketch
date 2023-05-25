@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T17:16:04.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HlP0j6tOOxDsTosoL5eo" version="21.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-25T17:34:42.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GcismonmXpQ7PBd-zXnp" version="21.3.4" type="github" pages="5">
   <diagram name="Summary" id="IKh3nL40RzK3kSDg4t4r">
     <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -498,7 +498,7 @@
         <mxCell id="FPnNFu6WJgEl7pIDmt3f-11" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-2">
           <mxGeometry y="126" width="273" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FPnNFu6WJgEl7pIDmt3f-12" value="Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-11">
+        <mxCell id="FPnNFu6WJgEl7pIDmt3f-12" value="Not Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-11">
           <mxGeometry width="91" height="65" as="geometry">
             <mxRectangle width="91" height="65" as="alternateBounds" />
           </mxGeometry>
@@ -561,7 +561,7 @@
         <mxCell id="FPnNFu6WJgEl7pIDmt3f-26" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-17">
           <mxGeometry y="126" width="273" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FPnNFu6WJgEl7pIDmt3f-27" value="Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-26">
+        <mxCell id="FPnNFu6WJgEl7pIDmt3f-27" value="Not Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-26">
           <mxGeometry width="91" height="65" as="geometry">
             <mxRectangle width="91" height="65" as="alternateBounds" />
           </mxGeometry>
@@ -624,7 +624,7 @@
         <mxCell id="FPnNFu6WJgEl7pIDmt3f-41" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-32">
           <mxGeometry y="126" width="273" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FPnNFu6WJgEl7pIDmt3f-42" value="Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-41">
+        <mxCell id="FPnNFu6WJgEl7pIDmt3f-42" value="No Cat" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="FPnNFu6WJgEl7pIDmt3f-41">
           <mxGeometry width="91" height="65" as="geometry">
             <mxRectangle width="91" height="65" as="alternateBounds" />
           </mxGeometry>
@@ -644,6 +644,9 @@
         </mxCell>
         <mxCell id="FPnNFu6WJgEl7pIDmt3f-46" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall-page1_128x128.png" vertex="1" parent="1">
           <mxGeometry x="1143" y="386" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FPnNFu6WJgEl7pIDmt3f-47" value="Precision = TP/(TP+FP) - High quality but will leave some good&amp;nbsp;&lt;br&gt;Recall = TP/(TP+FN) - Gives some bad but most of them are good" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1062" y="759" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
