@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T17:34:42.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GcismonmXpQ7PBd-zXnp" version="21.3.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-05-26T05:55:19.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7HmgKWUcHkwegASaQ2eq" version="21.3.4" type="device" pages="5">
   <diagram name="Summary" id="IKh3nL40RzK3kSDg4t4r">
-    <mxGraphModel dx="1434" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="YuGBkWrWiaTABAZO744--2" value="Computer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YuGBkWrWiaTABAZO744--3" value="Input" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="YuGBkWrWiaTABAZO744--3" value="Output" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YuGBkWrWiaTABAZO744--25" value="Financial Institution" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -169,7 +169,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f4nPETrMEtfVDZXPr_Hg" name="Algorithim">
-    <mxGraphModel dx="584" dy="796" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="714" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,6 +299,75 @@
         </mxCell>
         <mxCell id="qPTurpKYU6WXjvwjlFdN-59" value="Fraud ( Yes vs No)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1140" y="1131" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-1" target="iVH45IM0ijC4vnhDRdY7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-4" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-3">
+          <mxGeometry x="-0.01" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-1" target="iVH45IM0ijC4vnhDRdY7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-12" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-11">
+          <mxGeometry x="-0.1525" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-1" value="Amount &amp;gt; 5K" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1474" width="171" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-2" target="iVH45IM0ijC4vnhDRdY7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-6">
+          <mxGeometry x="-0.0523" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-2" target="iVH45IM0ijC4vnhDRdY7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-13" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-9">
+          <mxGeometry x="-0.2645" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-2" value="Location = IP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1047" y="1588" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-5" value="Not Fraud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="981" y="1685" width="85" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-8" value="Fraud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="1685" width="88" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-10" target="iVH45IM0ijC4vnhDRdY7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-15">
+          <mxGeometry x="0.0283" y="1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iVH45IM0ijC4vnhDRdY7-10" target="iVH45IM0ijC4vnhDRdY7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iVH45IM0ijC4vnhDRdY7-17">
+          <mxGeometry x="0.1088" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-10" value="No of location &amp;gt; 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1299" y="1590" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-14" value="Fraud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="1687" width="84" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="iVH45IM0ijC4vnhDRdY7-16" value="Not Fraud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1390.5" y="1686" width="85" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
